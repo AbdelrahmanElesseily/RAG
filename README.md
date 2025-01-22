@@ -11,4 +11,7 @@ This project is focused on building a **Retrieval-Augmented Generation (RAG)** s
 - Integration with Generation Model  
 - Testing and Optimization  
 - Documentation  
-video link : https://drive.google.com/file/d/1a_lD817DjdaYPSNIKOr6JQ0DOSddrf1m/view?usp=sharing
+
+<br>
+
+**Video Link:** https://drive.google.com/file/d/1a_lD817DjdaYPSNIKOr6JQ0DOSddrf1m/view?usp=sharing
